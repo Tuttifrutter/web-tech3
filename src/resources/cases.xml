@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cases>
+    <case>
+        <id>1</id>
+        <firstName>DMITRY</firstName>
+        <lastName>SAPEGA</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>IVAN</firstName>
+        <lastName>IVANOV</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>ALEXANDR</firstName>
+        <lastName>JAROV</lastName>
+    </case>
+    <case>
+        <id>4</id>
+        <firstName>VIKTOR</firstName>
+        <lastName>MARTINOVICH</lastName>
+    </case>
+    <case>
+        <id>5</id>
+        <firstName>ARTEM</firstName>
+        <lastName>NOREYKO</lastName>
+    </case>
+    <case>
+        <id>6</id>
+        <firstName>ANTON</firstName>
+        <lastName>KARACHUN</lastName>
+    </case>
+</cases>
